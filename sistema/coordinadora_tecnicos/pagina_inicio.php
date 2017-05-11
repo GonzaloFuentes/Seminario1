@@ -3,7 +3,7 @@
 <head>
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Admin Técnico</title>
+    <title>Admin Coordinadora Técnicos</title>
 	<!-- BOOTSTRAP STYLES-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FONTAWESOME STYLES-->
@@ -48,7 +48,7 @@ font-size: 16px;"> 26 de Mayo de 2017 &nbsp; <a href="#" class="btn btn-danger s
 					
 					
                     <li>
-                        <a !class="active-menu" href="#"> <i class="fa fa-dashboard fa-3x"></i>Agenda</a>
+                        <a !class="active-menu" href="abm_agenda.php"> <i class="fa fa-dashboard fa-3x"></i>Agenda</a>
                     </li>
 					
 					
